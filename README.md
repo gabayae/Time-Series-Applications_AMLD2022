@@ -17,6 +17,15 @@ Participants will come away with some theoretical knowledge of time series data 
 ### `Difficulty` >:  
 Beginner level
 
+The workshop will showcase two main streams in `time series`:
+  - [topology of time series](https://github.com/gabayae/Time-Series-Applications_AMLD2022/tree/main/tolopogy_of_time-series);
+  - [deep learning for time series](https://github.com/gabayae/Time-Series-Applications_AMLD2022/tree/main/deep-learning_of_time-series).
+
+
+Slides and notebooks will be available for participants.
+
+
+
 
 
 ### `Co-organizers` >: 
